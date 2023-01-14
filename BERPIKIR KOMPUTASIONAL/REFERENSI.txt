@@ -10,3 +10,6 @@ https://ayoguruberbagi.kemdikbud.go.id/rpp/modul-ajar-informatika-berpikir-kompu
 
 SORTING
 https://www.youtube.com/watch?v=GH_DNBojOck
+
+PENGURUTAN (SORTING) & TUMPUKAN (STACK) DAN ANTREAN (QUEUE)
+https://sabdasvara.blogspot.com/2021/08/informatika-kelas-x-pertemuan-ke-empat.html
